@@ -123,7 +123,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "🦋 𝘼𝙟𝙪𝙨𝙚𝙧 🦋"
+            "value": "🦋 YANZ BOTZ 🦋"
         },
         "WORK_TYPE": {
             "description": "Ajuser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
