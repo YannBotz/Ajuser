@@ -19,15 +19,15 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `ＡＪＵＳＥＲ ＢＯＴ
 
-*bot making video* : _https://youtu.be/MPoRRTkjuW0_
+*bot making video* : _RA DUE YT :V_
 
-*owner id instagram* :https://instagram.com/__ajuz___001?utm_medium=copy_link.
+*owner id instagram* :https://www.instagram.com/invites/contact/?i=vodzc8yqccum&utm_content=ic0cvm0.
 
-*github* : _https://github.com/aju001/Ajuser_.
+*github* : _https://github.com/YannBotz_.
 
 ■□■□■□■□■□■□■□■□■□■□
-       _𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
-  ▣▣ created by Aju ▣▣
+       _Yanz𝙨𝙚𝙧 𝘽𝙤𝙩_
+  ▣▣ created by Yanz ▣▣
 
 `}) 
 
